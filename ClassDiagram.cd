@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ProjektObiektowka.Człowiek" Collapsed="true">
+    <Position X="1.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIEAAQAAAKAAAACkAAAAAAAAAAAAAAAAAAAAAACBAAE=</HashCode>
+      <FileName>Człowiek.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektObiektowka.Manager" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAQAAEAEIAAAAAAAAAAAAAAAAgg=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektObiektowka.Materiały" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Materiały.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektObiektowka.Pracownik" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEAgAAAAIAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Pracownik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektObiektowka.Program" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAQAEAAAAAAAIAAAAAAAAAAAAAAQABAAAAgA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektObiektowka.Projekt" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAABASAAgQAEBIAAAAQEAAAgBABAAAAgAAgAIgA=</HashCode>
+      <FileName>Projekt.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektObiektowka.Trwałe" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trwałe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektObiektowka.Zadanie" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAEAAAIAAAAAAAEQAAAAEAgAAAAIgA=</HashCode>
+      <FileName>Zadanie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProjektObiektowka.Zasób" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAABAAAAAAAIgAAECAAAAAAAAAAAAAAAAAAgAAgAIwA=</HashCode>
+      <FileName>Zasób.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
